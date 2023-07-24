@@ -1,4 +1,4 @@
 {
-  name: "empty-repo",
-  main: "index.js"
+  "name": "empty-repo",
+  "main": "index.js"
 }
